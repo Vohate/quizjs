@@ -1,0 +1,21 @@
+
+.box {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 700px;
+    text-align: center;
+}
+
+.question-clicked {
+    background: lightblue;
+    opacity: 1;
+    border: 5px dashed cadetblue;
+}
+
+.show-response {
+    visibility: visible;
+    opacity: 1;
+    transform: translateX(0);
+}
